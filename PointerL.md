@@ -1,5 +1,6 @@
 # PointerL
 ## Commands
+```  
 > - move pointer right
 < - move pointer left
 + - bit of pointer on
@@ -14,3 +15,4 @@ $ - sum of 2 bytes
 & - output into register
 : - input from address
 {} - loop brackets
+```
